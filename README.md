@@ -15,10 +15,13 @@ Enterprise Cloud Architect with Expertise in AWS, Azure & Hybrid
 
 ## Featured Projects
 
-### 
-- Live Demo
-- GitHub Repo
-- Case Study
+📑 Original Customer Presentation
+
+The complete **Gilbert Motors RFP Solution Document** presented to the customer is available below.
+
+**[Download the Original RFP Presentation](./docs/Gilbert%20Motors%20RFP%20Solution%20Document.pptx)**
+
+The presentation contains the original customer-facing proposal covering the solution scope, logical and technical architecture, assumptions, risks and mitigation, commercials, implementation roadmap, and data validation approach.
 
 ### 
 - Live Demo
