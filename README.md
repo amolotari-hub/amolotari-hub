@@ -1,8 +1,9 @@
-Hi, I'm Amol Otari 👋
+Amol Otari
+Enterprise Cloud Architect | AWS | Azure | Hybrid Cloud | Digital Transformation | 18+ Years Experience
+Designing secure, scalable and cost-optimized cloud platforms for enterprise transformation.
 
-Enterprise Cloud Architect with Expertise in AWS, Azure & Hybrid
 
-## What I Do
+## Expertise
 - Multi-Cloud Architecture (AWS, Azure, Hybrid)
 - FinOps & Cost Optimization (20–40% savings)
 - DevSecOps, IaC, CI/CD Automation
@@ -13,20 +14,25 @@ Enterprise Cloud Architect with Expertise in AWS, Azure & Hybrid
 - Landing zone governance
 - Cloud operating model
 
-## Featured Projects
+## Case Studies 
+- Gilbert Motors 
+- Cloud Migration 
+- Landing Zone 
+- FinOps 
+- DevSecOps
 
-📑 Original Customer Presentation
+## Architecture 
+-Reference Architectures 
+-Diagrams 
+-Decision Records
 
-The complete **Gilbert Motors RFP Solution Document** presented to the customer is available below.
+## Proof of Work 
+-Presentations 
+-Architecture Documents 
+-Implementation Documents 
+-Delivery Artifacts
 
-**[Download the Original RFP Presentation](./docs/Gilbert%20Motors%20RFP%20Solution%20Document.pptx)**
-
-The presentation contains the original customer-facing proposal covering the solution scope, logical and technical architecture, assumptions, risks and mitigation, commercials, implementation roadmap, and data validation approach.
-
-### 
-- Live Demo
-- GitHub Repo
-- Architecture
+## Resume
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/amolotari
